@@ -35,4 +35,13 @@ Start the application
 ```bash
   npm run start
 ```
+## Authors
+- [@surprisedagain](https://www.github.com/surprisedagain) - Original reffer python scripts
+- [@hadll](https://www.github.com/hadll) - GUI components
+
+
+## License
+
+[gpl-3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
 
